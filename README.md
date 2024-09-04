@@ -1,1 +1,1 @@
-red wine classification as my first ml project with girlfriend
+red wine classification as my first ml project with my girlfriend
